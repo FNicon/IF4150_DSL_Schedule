@@ -1,0 +1,7 @@
+/build/
+.classpath
+*.interp
+/target/generated-sources/antlr4/*.interp
+/.settings/
+src/resources/input.gr
+/bin/
